@@ -1,0 +1,8 @@
+.cardStyle {
+  width: 18rem;
+}
+
+div > img {
+  width: 18rem;
+  height: 15rem;
+}

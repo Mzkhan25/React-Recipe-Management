@@ -1,9 +1,11 @@
-import React, { Component } from 'react';
-
-class Home extends Component {
-  render() {
-    return <div>Home</div>;
-  }
-}
+import React, { Fragment } from "react";
+import Recipes from "../recipes/index";
+const Home = () => {
+  return (
+    <Fragment>
+      <Recipes />
+    </Fragment>
+  );
+};
 
 export default Home;

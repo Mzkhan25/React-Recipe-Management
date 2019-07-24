@@ -1,5 +1,6 @@
 export const SEARCH_RECIPES = "SEARCH_RECIPES";
 export const GET_RECIPE = "GET_RECIPE";
+export const GET_RECIPES = "GET_RECIPES";
 export const CLEAR_RECIPES = "CLEAR_RECIPES";
 export const ADD_RECIPES = "ADD_RECIPES";
 export const ADD_INGREDIENTS = "ADD_INGREDIENTS";
